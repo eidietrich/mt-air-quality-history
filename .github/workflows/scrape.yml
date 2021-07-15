@@ -1,0 +1,25 @@
+name: Scrape air quality data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - chron: "5,25,45 * * * *"
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v2
+      - name: Fetch latest data
+        run: |-
+          curl https://www.airnowapi.org/aq/data/\?startDate\=2021-07-15T20\&endDate\=2021-07-15T21\&parameters\=PM25\&BBOX\=-116.160889,44.298048,-103.416748,49.172497\&dataType\=A\&format\=application/json\&verbose\=1\&nowcastonly\=0\&includerawconcentrations\=0\&API_KEY\=40F0E34D-07B2-4DF3-B8B8-8563AD479DE3 | jq '.[] | select(.AgencyName | contains("Montana DEQ"))'  > mt-air-quality.json
+      - name: Commit and push if changed
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push
