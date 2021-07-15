@@ -3,8 +3,6 @@ name: Scrape air quality data
 on:
   push:
   workflow_dispatch:
-  schedule:
-    - chron: "5,25,45 * * * *"
 
 jobs:
   scheduled:
