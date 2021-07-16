@@ -234,6 +234,19 @@
     "IntlAQSCode": "840300310019"
   },
   {
+    "Latitude": 44.373056,
+    "Longitude": -110.830833,
+    "UTC": "2021-07-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 63,
+    "Category": 2,
+    "SiteName": "Yellowstone- Old Faithful Snow Lodge",
+    "AgencyName": "National Park Service",
+    "FullAQSCode": "560391013",
+    "IntlAQSCode": "840560391013"
+  },
+  {
     "Latitude": 48.551019,
     "Longitude": -109.677483,
     "UTC": "2021-07-15T20:00",
@@ -564,7 +577,7 @@
     "UTC": "2021-07-15T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 74,
+    "AQI": 72,
     "Category": 2,
     "SiteName": "West Yellowstone Park Ent #2",
     "AgencyName": "Montana DEQ",
@@ -583,6 +596,19 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300310019",
     "IntlAQSCode": "840300310019"
+  },
+  {
+    "Latitude": 44.373056,
+    "Longitude": -110.830833,
+    "UTC": "2021-07-15T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 73,
+    "Category": 2,
+    "SiteName": "Yellowstone- Old Faithful Snow Lodge",
+    "AgencyName": "National Park Service",
+    "FullAQSCode": "560391013",
+    "IntlAQSCode": "840560391013"
   },
   {
     "Latitude": 48.551019,
