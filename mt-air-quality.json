@@ -156,6 +156,19 @@
     "IntlAQSCode": "840MMMT10001"
   },
   {
+    "Latitude": 46.002399,
+    "Longitude": -112.500893,
+    "UTC": "2021-07-20T14:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 99,
+    "Category": 2,
+    "SiteName": "Butte Greely School",
+    "AgencyName": "Montana DEQ",
+    "FullAQSCode": "300930005",
+    "IntlAQSCode": "840300930005"
+  },
+  {
     "Latitude": 48.607406,
     "Longitude": -112.363842,
     "UTC": "2021-07-20T14:00",
