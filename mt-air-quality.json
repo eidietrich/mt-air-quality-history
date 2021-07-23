@@ -299,6 +299,19 @@
     "IntlAQSCode": "840300710010"
   },
   {
+    "Latitude": 45.366151,
+    "Longitude": -106.48982,
+    "UTC": "2021-07-23T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 52,
+    "Category": 2,
+    "SiteName": "Birney",
+    "AgencyName": "Montana DEQ",
+    "FullAQSCode": "300870001",
+    "IntlAQSCode": "840300870001"
+  },
+  {
     "Latitude": 47.8679,
     "Longitude": -104.676864,
     "UTC": "2021-07-23T07:00",
