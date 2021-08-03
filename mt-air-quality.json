@@ -325,6 +325,19 @@
     "IntlAQSCode": "840300710010"
   },
   {
+    "Latitude": 45.440295,
+    "Longitude": -105.37028,
+    "UTC": "2021-08-03T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 146,
+    "Category": 3,
+    "SiteName": "Broadus",
+    "AgencyName": "Montana DEQ",
+    "FullAQSCode": "300750001",
+    "IntlAQSCode": "840300750001"
+  },
+  {
     "Latitude": 47.8679,
     "Longitude": -104.676864,
     "UTC": "2021-08-03T21:00",
