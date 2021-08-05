@@ -31,7 +31,7 @@
     "UTC": "2021-08-05T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 80,
+    "AQI": 77,
     "Category": 2,
     "SiteName": "Kamiah",
     "AgencyName": "Nez Perce Tribe",
@@ -50,6 +50,19 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300530018",
     "IntlAQSCode": "840300530018"
+  },
+  {
+    "Latitude": 47.594395,
+    "Longitude": -115.323746,
+    "UTC": "2021-08-05T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 155,
+    "Category": 4,
+    "SiteName": "Thompson Falls HS",
+    "AgencyName": "Montana DEQ",
+    "FullAQSCode": "300890007",
+    "IntlAQSCode": "840300890007"
   },
   {
     "Latitude": 47.012907,
