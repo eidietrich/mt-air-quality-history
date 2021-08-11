@@ -13,6 +13,19 @@
     "IntlAQSCode": "840160490002"
   },
   {
+    "Latitude": 46.2094,
+    "Longitude": -116.0275,
+    "UTC": "2021-08-11T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 45,
+    "Category": 1,
+    "SiteName": "Kamiah",
+    "AgencyName": "Nez Perce Tribe",
+    "FullAQSCode": "840TT1820003",
+    "IntlAQSCode": "840TT1820003"
+  },
+  {
     "Latitude": 48.3841,
     "Longitude": -115.548,
     "UTC": "2021-08-11T07:00",
@@ -24,6 +37,19 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300530018",
     "IntlAQSCode": "840300530018"
+  },
+  {
+    "Latitude": 47.594395,
+    "Longitude": -115.323746,
+    "UTC": "2021-08-11T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 168,
+    "Category": 4,
+    "SiteName": "Thompson Falls HS",
+    "AgencyName": "Montana DEQ",
+    "FullAQSCode": "300890007",
+    "IntlAQSCode": "840300890007"
   },
   {
     "Latitude": 47.012907,
@@ -226,7 +252,7 @@
     "UTC": "2021-08-11T07:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 10,
+    "AQI": 2,
     "Category": 1,
     "SiteName": "Theodore Roosevelt NP - Painted Canyon VC",
     "AgencyName": "North Dakota Department of Environmental Quality",
