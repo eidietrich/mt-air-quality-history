@@ -39,6 +39,19 @@
     "IntlAQSCode": "840300530018"
   },
   {
+    "Latitude": 47.594395,
+    "Longitude": -115.323746,
+    "UTC": "2021-08-12T13:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 350,
+    "Category": 6,
+    "SiteName": "Thompson Falls HS",
+    "AgencyName": "Montana DEQ",
+    "FullAQSCode": "300890007",
+    "IntlAQSCode": "840300890007"
+  },
+  {
     "Latitude": 47.012907,
     "Longitude": -114.224273,
     "UTC": "2021-08-12T13:00",
@@ -174,7 +187,7 @@
     "UTC": "2021-08-12T13:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 35,
+    "AQI": 36,
     "Category": 1,
     "SiteName": "West Yellowstone Park Ent #2",
     "AgencyName": "Montana DEQ",
@@ -200,7 +213,7 @@
     "UTC": "2021-08-12T13:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 39,
+    "AQI": 36,
     "Category": 1,
     "SiteName": "Yellowstone- Old Faithful Snow Lodge",
     "AgencyName": "National Park Service",
