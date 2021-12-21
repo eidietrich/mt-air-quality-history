@@ -2,7 +2,7 @@
   {
     "Latitude": 45.931301,
     "Longitude": -116.115196,
-    "UTC": "2021-12-21T11:00",
+    "UTC": "2021-12-21T12:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 7,
@@ -15,7 +15,7 @@
   {
     "Latitude": 44.890197,
     "Longitude": -116.1065,
-    "UTC": "2021-12-21T11:00",
+    "UTC": "2021-12-21T12:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 27,
@@ -28,7 +28,7 @@
   {
     "Latitude": 45.181907,
     "Longitude": -113.890285,
-    "UTC": "2021-12-21T11:00",
+    "UTC": "2021-12-21T12:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 50,
@@ -39,22 +39,9 @@
     "IntlAQSCode": "840160590004"
   },
   {
-    "Latitude": 44.657014,
-    "Longitude": -111.089618,
-    "UTC": "2021-12-21T11:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 4,
-    "Category": 1,
-    "SiteName": "West Yellowstone Park Ent #2",
-    "AgencyName": "Montana DEQ",
-    "FullAQSCode": "300310017",
-    "IntlAQSCode": "840300310017"
-  },
-  {
     "Latitude": 44.373056,
     "Longitude": -110.830833,
-    "UTC": "2021-12-21T11:00",
+    "UTC": "2021-12-21T12:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 10,
@@ -67,10 +54,10 @@
   {
     "Latitude": 44.815142,
     "Longitude": -106.955933,
-    "UTC": "2021-12-21T11:00",
+    "UTC": "2021-12-21T12:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 9,
+    "AQI": 7,
     "Category": 1,
     "SiteName": "Sheridan PD",
     "AgencyName": "Wyoming Department of Environmental Quality",
@@ -80,7 +67,7 @@
   {
     "Latitude": 46.949699,
     "Longitude": -103.514397,
-    "UTC": "2021-12-21T11:00",
+    "UTC": "2021-12-21T12:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 0,
