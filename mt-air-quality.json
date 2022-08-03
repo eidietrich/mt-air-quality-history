@@ -65,8 +65,8 @@
     "IntlAQSCode": "840300890007"
   },
   {
-    "Latitude": 45.087921,
-    "Longitude": -114.240883,
+    "Latitude": 45.087933,
+    "Longitude": -114.240906,
     "UTC": "2022-08-03T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -356,7 +356,7 @@
     "UTC": "2022-08-03T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 29,
+    "AQI": 31,
     "Category": 1,
     "SiteName": "Sheridan PD",
     "AgencyName": "Wyoming Department of Environmental Quality",
