@@ -31,7 +31,7 @@
     "UTC": "2022-08-24T13:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 40,
+    "AQI": 42,
     "Category": 1,
     "SiteName": "N/A",
     "AgencyName": "Forest Service",
@@ -76,19 +76,6 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300890007",
     "IntlAQSCode": "840300890007"
-  },
-  {
-    "Latitude": 45.087906,
-    "Longitude": -114.240883,
-    "UTC": "2022-08-24T13:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 63,
-    "Category": 2,
-    "SiteName": "Unit0217",
-    "AgencyName": "Forest Service",
-    "FullAQSCode": "MMFS10217",
-    "IntlAQSCode": "840MMFS10217"
   },
   {
     "Latitude": 47.012907,
@@ -330,7 +317,7 @@
     "UTC": "2022-08-24T13:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 16,
+    "AQI": 15,
     "Category": 1,
     "SiteName": "Cody SLAMS",
     "AgencyName": "Wyoming Department of Environmental Quality",
