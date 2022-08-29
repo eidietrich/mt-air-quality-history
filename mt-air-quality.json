@@ -5,7 +5,7 @@
     "UTC": "2022-08-29T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 31,
+    "AQI": 28,
     "Category": 1,
     "SiteName": "Grangeville",
     "AgencyName": "Idaho Department of Environmental Quality",
@@ -18,7 +18,7 @@
     "UTC": "2022-08-29T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 16,
+    "AQI": 14,
     "Category": 1,
     "SiteName": "McCall",
     "AgencyName": "Idaho Department of Environmental Quality",
@@ -115,6 +115,19 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300630024",
     "IntlAQSCode": "840300630024"
+  },
+  {
+    "Latitude": 45.181907,
+    "Longitude": -113.890285,
+    "UTC": "2022-08-29T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 32,
+    "Category": 1,
+    "SiteName": "Salmon PM2.5",
+    "AgencyName": "Idaho Department of Environmental Quality",
+    "FullAQSCode": "160590004",
+    "IntlAQSCode": "840160590004"
   },
   {
     "Latitude": 47.17563,
