@@ -26,8 +26,8 @@
     "IntlAQSCode": "840160850002"
   },
   {
-    "Latitude": 44.73119,
-    "Longitude": -116.080742,
+    "Latitude": 44.731232,
+    "Longitude": -116.080757,
     "UTC": "2022-09-05T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
