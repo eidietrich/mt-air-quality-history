@@ -26,6 +26,19 @@
     "IntlAQSCode": "840160850002"
   },
   {
+    "Latitude": 46.2094,
+    "Longitude": -116.0275,
+    "UTC": "2022-09-25T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 18,
+    "Category": 1,
+    "SiteName": "Kamiah",
+    "AgencyName": "Nez Perce Tribe",
+    "FullAQSCode": "840TT1820003",
+    "IntlAQSCode": "840TT1820003"
+  },
+  {
     "Latitude": 48.3841,
     "Longitude": -115.548,
     "UTC": "2022-09-25T07:00",
@@ -52,8 +65,8 @@
     "IntlAQSCode": "840300890007"
   },
   {
-    "Latitude": 47.195438,
-    "Longitude": -114.894302,
+    "Latitude": 47.195427,
+    "Longitude": -114.89431,
     "UTC": "2022-09-25T07:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -291,7 +304,7 @@
     "UTC": "2022-09-25T07:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 8,
+    "AQI": 9,
     "Category": 1,
     "SiteName": "Cody SLAMS",
     "AgencyName": "Wyoming Department of Environmental Quality",
