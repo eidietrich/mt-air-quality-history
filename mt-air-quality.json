@@ -26,19 +26,6 @@
     "IntlAQSCode": "840160850002"
   },
   {
-    "Latitude": 46.2094,
-    "Longitude": -116.0275,
-    "UTC": "2022-11-09T19:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 112,
-    "Category": 3,
-    "SiteName": "Kamiah",
-    "AgencyName": "Nez Perce Tribe",
-    "FullAQSCode": "840TT1820003",
-    "IntlAQSCode": "840TT1820003"
-  },
-  {
     "Latitude": 48.3841,
     "Longitude": -115.548,
     "UTC": "2022-11-09T19:00",
