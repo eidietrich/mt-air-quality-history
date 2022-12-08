@@ -169,6 +169,19 @@
     "IntlAQSCode": "840300930005"
   },
   {
+    "Latitude": 48.607406,
+    "Longitude": -112.363842,
+    "UTC": "2022-12-08T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Cut Bank",
+    "AgencyName": "Montana DEQ",
+    "FullAQSCode": "MMMT10006",
+    "IntlAQSCode": "840MMMT10006"
+  },
+  {
     "Latitude": 46.6588,
     "Longitude": -112.0131,
     "UTC": "2022-12-08T21:00",
@@ -265,7 +278,7 @@
     "UTC": "2022-12-08T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 12,
+    "AQI": 17,
     "Category": 1,
     "SiteName": "Cody SLAMS",
     "AgencyName": "Wyoming Department of Environmental Quality",
@@ -304,7 +317,7 @@
     "UTC": "2022-12-08T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 68,
+    "AQI": 61,
     "Category": 2,
     "SiteName": "Sheridan PD",
     "AgencyName": "Wyoming Department of Environmental Quality",
