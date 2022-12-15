@@ -2,10 +2,10 @@
   {
     "Latitude": 45.931301,
     "Longitude": -116.115196,
-    "UTC": "2022-12-15T08:00",
+    "UTC": "2022-12-15T09:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 9,
+    "AQI": 10,
     "Category": 1,
     "SiteName": "Grangeville",
     "AgencyName": "Idaho Department of Environmental Quality",
@@ -15,10 +15,10 @@
   {
     "Latitude": 46.2094,
     "Longitude": -116.0275,
-    "UTC": "2022-12-15T08:00",
+    "UTC": "2022-12-15T09:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 31,
+    "AQI": 40,
     "Category": 1,
     "SiteName": "Kamiah",
     "AgencyName": "Nez Perce Tribe",
@@ -28,10 +28,10 @@
   {
     "Latitude": 46.513557,
     "Longitude": -114.09095,
-    "UTC": "2022-12-15T08:00",
+    "UTC": "2022-12-15T09:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 58,
+    "AQI": 56,
     "Category": 2,
     "SiteName": "Unit139",
     "AgencyName": "Forest Service",
@@ -41,10 +41,10 @@
   {
     "Latitude": 45.181907,
     "Longitude": -113.890285,
-    "UTC": "2022-12-15T08:00",
+    "UTC": "2022-12-15T09:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 95,
+    "AQI": 80,
     "Category": 2,
     "SiteName": "Salmon PM2.5",
     "AgencyName": "Idaho Department of Environmental Quality",
@@ -54,7 +54,7 @@
   {
     "Latitude": 44.657014,
     "Longitude": -111.089618,
-    "UTC": "2022-12-15T08:00",
+    "UTC": "2022-12-15T09:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 0,
@@ -67,10 +67,10 @@
   {
     "Latitude": 44.373056,
     "Longitude": -110.830833,
-    "UTC": "2022-12-15T08:00",
+    "UTC": "2022-12-15T09:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 8,
+    "AQI": 4,
     "Category": 1,
     "SiteName": "Yellowstone- Old Faithful Snow Lodge",
     "AgencyName": "National Park Service",
@@ -80,7 +80,7 @@
   {
     "Latitude": 44.524642,
     "Longitude": -109.068507,
-    "UTC": "2022-12-15T08:00",
+    "UTC": "2022-12-15T09:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 0,
@@ -89,18 +89,5 @@
     "AgencyName": "Wyoming Department of Environmental Quality",
     "FullAQSCode": "840560290001",
     "IntlAQSCode": "840560290001"
-  },
-  {
-    "Latitude": 44.815142,
-    "Longitude": -106.955933,
-    "UTC": "2022-12-15T08:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": -999,
-    "SiteName": "Sheridan PD",
-    "AgencyName": "Wyoming Department of Environmental Quality",
-    "FullAQSCode": "560330002",
-    "IntlAQSCode": "840560330002"
   }
 ]
