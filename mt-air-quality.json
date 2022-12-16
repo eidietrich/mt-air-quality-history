@@ -31,7 +31,7 @@
     "UTC": "2022-12-16T08:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 40,
+    "AQI": 43,
     "Category": 1,
     "SiteName": "Kamiah",
     "AgencyName": "Nez Perce Tribe",
@@ -291,7 +291,7 @@
     "UTC": "2022-12-16T08:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 4,
+    "AQI": 3,
     "Category": 1,
     "SiteName": "Cody SLAMS",
     "AgencyName": "Wyoming Department of Environmental Quality",
@@ -323,6 +323,19 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300710010",
     "IntlAQSCode": "840300710010"
+  },
+  {
+    "Latitude": 44.815142,
+    "Longitude": -106.955933,
+    "UTC": "2022-12-16T08:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Sheridan PD",
+    "AgencyName": "Wyoming Department of Environmental Quality",
+    "FullAQSCode": "560330002",
+    "IntlAQSCode": "840560330002"
   },
   {
     "Latitude": 46.411444,
