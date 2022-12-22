@@ -213,7 +213,7 @@
     "UTC": "2022-12-22T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 17,
+    "AQI": 10,
     "Category": 1,
     "SiteName": "West Yellowstone Park Ent #2",
     "AgencyName": "Montana DEQ",
@@ -232,6 +232,19 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300310019",
     "IntlAQSCode": "840300310019"
+  },
+  {
+    "Latitude": 44.373056,
+    "Longitude": -110.830833,
+    "UTC": "2022-12-22T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "Yellowstone- Old Faithful Snow Lodge",
+    "AgencyName": "National Park Service",
+    "FullAQSCode": "560391013",
+    "IntlAQSCode": "840560391013"
   },
   {
     "Latitude": 47.048537,
@@ -330,7 +343,7 @@
     "UTC": "2022-12-22T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 32,
+    "AQI": 48,
     "Category": 1,
     "SiteName": "Theodore Roosevelt NP - Painted Canyon VC",
     "AgencyName": "North Dakota Department of Environmental Quality",
