@@ -291,7 +291,7 @@
     "UTC": "2023-01-03T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 6,
+    "AQI": 2,
     "Category": 1,
     "SiteName": "Cody SLAMS",
     "AgencyName": "Wyoming Department of Environmental Quality",
