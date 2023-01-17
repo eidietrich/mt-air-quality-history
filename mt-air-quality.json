@@ -234,6 +234,19 @@
     "IntlAQSCode": "840300130001"
   },
   {
+    "Latitude": 44.657014,
+    "Longitude": -111.089618,
+    "UTC": "2023-01-17T13:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "West Yellowstone Park Ent #2",
+    "AgencyName": "Montana DEQ",
+    "FullAQSCode": "300310017",
+    "IntlAQSCode": "840300310017"
+  },
+  {
     "Latitude": 47.048537,
     "Longitude": -109.455315,
     "UTC": "2023-01-17T13:00",
@@ -330,7 +343,7 @@
     "UTC": "2023-01-17T13:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 28,
+    "AQI": 25,
     "Category": 1,
     "SiteName": "Theodore Roosevelt NP - Painted Canyon VC",
     "AgencyName": "North Dakota Department of Environmental Quality",
