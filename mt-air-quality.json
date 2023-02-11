@@ -182,6 +182,19 @@
     "IntlAQSCode": "840MMMT10006"
   },
   {
+    "Latitude": 46.584187,
+    "Longitude": -112.042023,
+    "UTC": "2023-02-11T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 18,
+    "Category": 1,
+    "SiteName": "MMFS11307",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "840MMFS11307",
+    "IntlAQSCode": "840MMFS11307"
+  },
+  {
     "Latitude": 46.6588,
     "Longitude": -112.0131,
     "UTC": "2023-02-11T19:00",
@@ -317,7 +330,7 @@
     "UTC": "2023-02-11T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 33,
+    "AQI": 28,
     "Category": 1,
     "SiteName": "Sheridan PD",
     "AgencyName": "Wyoming Department of Environmental Quality",
