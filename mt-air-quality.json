@@ -273,6 +273,19 @@
     "IntlAQSCode": "840560391013"
   },
   {
+    "Latitude": 48.540373,
+    "Longitude": -109.684432,
+    "UTC": "2023-05-05T14:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 12,
+    "Category": 1,
+    "SiteName": "Havre",
+    "AgencyName": "Montana DEQ",
+    "FullAQSCode": "840300410002",
+    "IntlAQSCode": "840300410002"
+  },
+  {
     "Latitude": 47.048537,
     "Longitude": -109.455315,
     "UTC": "2023-05-05T14:00",
@@ -291,7 +304,7 @@
     "UTC": "2023-05-05T14:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 7,
+    "AQI": 9,
     "Category": 1,
     "SiteName": "Cody SLAMS",
     "AgencyName": "Wyoming Department of Environmental Quality",
@@ -330,7 +343,7 @@
     "UTC": "2023-05-05T14:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 31,
+    "AQI": 27,
     "Category": 1,
     "SiteName": "Sheridan PD",
     "AgencyName": "Wyoming Department of Environmental Quality",
