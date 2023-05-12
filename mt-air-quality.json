@@ -182,6 +182,19 @@
     "IntlAQSCode": "840300350022"
   },
   {
+    "Latitude": 46.584034,
+    "Longitude": -112.042252,
+    "UTC": "2023-05-12T04:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 4,
+    "Category": 1,
+    "SiteName": "MMFS11307",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "840MMFS11307",
+    "IntlAQSCode": "840MMFS11307"
+  },
+  {
     "Latitude": 46.6588,
     "Longitude": -112.0131,
     "UTC": "2023-05-12T04:00",
@@ -291,7 +304,7 @@
     "UTC": "2023-05-12T04:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 4,
+    "AQI": 5,
     "Category": 1,
     "SiteName": "Cody SLAMS",
     "AgencyName": "Wyoming Department of Environmental Quality",
