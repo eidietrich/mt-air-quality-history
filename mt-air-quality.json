@@ -182,6 +182,19 @@
     "IntlAQSCode": "840300350022"
   },
   {
+    "Latitude": 46.584145,
+    "Longitude": -112.042107,
+    "UTC": "2023-06-19T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "MMFS11307",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "840MMFS11307",
+    "IntlAQSCode": "840MMFS11307"
+  },
+  {
     "Latitude": 46.6588,
     "Longitude": -112.0131,
     "UTC": "2023-06-19T01:00",
@@ -265,7 +278,7 @@
     "UTC": "2023-06-19T01:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 5,
+    "AQI": 1,
     "Category": 1,
     "SiteName": "Cody SLAMS",
     "AgencyName": "Wyoming Department of Environmental Quality",
@@ -304,7 +317,7 @@
     "UTC": "2023-06-19T01:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 46,
+    "AQI": 38,
     "Category": 1,
     "SiteName": "Sheridan PD",
     "AgencyName": "Wyoming Department of Environmental Quality",
