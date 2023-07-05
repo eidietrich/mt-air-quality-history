@@ -247,6 +247,19 @@
     "IntlAQSCode": "840300310019"
   },
   {
+    "Latitude": 44.373056,
+    "Longitude": -110.830833,
+    "UTC": "2023-07-05T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 21,
+    "Category": 1,
+    "SiteName": "Yellowstone- Old Faithful Snow Lodge",
+    "AgencyName": "National Park Service",
+    "FullAQSCode": "560391013",
+    "IntlAQSCode": "840560391013"
+  },
+  {
     "Latitude": 48.540373,
     "Longitude": -109.684432,
     "UTC": "2023-07-05T06:00",
@@ -278,8 +291,8 @@
     "UTC": "2023-07-05T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 48,
-    "Category": 1,
+    "AQI": 52,
+    "Category": 2,
     "SiteName": "Cody SLAMS",
     "AgencyName": "Wyoming Department of Environmental Quality",
     "FullAQSCode": "840560290001",
@@ -310,6 +323,19 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300710010",
     "IntlAQSCode": "840300710010"
+  },
+  {
+    "Latitude": 44.815142,
+    "Longitude": -106.955933,
+    "UTC": "2023-07-05T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 72,
+    "Category": 2,
+    "SiteName": "Sheridan PD",
+    "AgencyName": "Wyoming Department of Environmental Quality",
+    "FullAQSCode": "560330002",
+    "IntlAQSCode": "840560330002"
   },
   {
     "Latitude": 46.411444,
