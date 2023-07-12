@@ -1,11 +1,24 @@
 [
   {
+    "Latitude": 45.931301,
+    "Longitude": -116.115196,
+    "UTC": "2023-07-12T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 23,
+    "Category": 1,
+    "SiteName": "Grangeville",
+    "AgencyName": "Idaho Department of Environmental Quality",
+    "FullAQSCode": "160490002",
+    "IntlAQSCode": "840160490002"
+  },
+  {
     "Latitude": 44.890197,
     "Longitude": -116.1065,
     "UTC": "2023-07-12T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 38,
+    "AQI": 36,
     "Category": 1,
     "SiteName": "McCall",
     "AgencyName": "Idaho Department of Environmental Quality",
@@ -102,6 +115,19 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300630024",
     "IntlAQSCode": "840300630024"
+  },
+  {
+    "Latitude": 45.181907,
+    "Longitude": -113.890285,
+    "UTC": "2023-07-12T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 34,
+    "Category": 1,
+    "SiteName": "Salmon PM2.5",
+    "AgencyName": "Idaho Department of Environmental Quality",
+    "FullAQSCode": "160590004",
+    "IntlAQSCode": "840160590004"
   },
   {
     "Latitude": 47.17563,
@@ -343,7 +369,7 @@
     "UTC": "2023-07-12T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 13,
+    "AQI": 2,
     "Category": 1,
     "SiteName": "Theodore Roosevelt NP - Painted Canyon VC",
     "AgencyName": "North Dakota Department of Environmental Quality",
