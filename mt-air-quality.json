@@ -26,6 +26,19 @@
     "IntlAQSCode": "840160850002"
   },
   {
+    "Latitude": 46.2094,
+    "Longitude": -116.0275,
+    "UTC": "2023-07-14T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 11,
+    "Category": 1,
+    "SiteName": "Kamiah",
+    "AgencyName": "Nez Perce Tribe",
+    "FullAQSCode": "840TT1820003",
+    "IntlAQSCode": "840TT1820003"
+  },
+  {
     "Latitude": 48.391672,
     "Longitude": -115.55228,
     "UTC": "2023-07-14T07:00",
@@ -226,7 +239,7 @@
     "UTC": "2023-07-14T07:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 15,
+    "AQI": 16,
     "Category": 1,
     "SiteName": "West Yellowstone Park Ent #2",
     "AgencyName": "Montana DEQ",
@@ -252,7 +265,7 @@
     "UTC": "2023-07-14T07:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 20,
+    "AQI": 24,
     "Category": 1,
     "SiteName": "Yellowstone- Old Faithful Snow Lodge",
     "AgencyName": "National Park Service",
