@@ -195,8 +195,8 @@
     "IntlAQSCode": "840300350022"
   },
   {
-    "Latitude": 46.58419,
-    "Longitude": -112.041962,
+    "Latitude": 46.584213,
+    "Longitude": -112.041794,
     "UTC": "2023-07-21T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -317,7 +317,7 @@
     "UTC": "2023-07-21T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 16,
+    "AQI": 19,
     "Category": 1,
     "SiteName": "Cody SLAMS",
     "AgencyName": "Wyoming Department of Environmental Quality",
