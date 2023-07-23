@@ -26,6 +26,19 @@
     "IntlAQSCode": "840160850002"
   },
   {
+    "Latitude": 46.2094,
+    "Longitude": -116.0275,
+    "UTC": "2023-07-23T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 39,
+    "Category": 1,
+    "SiteName": "Kamiah",
+    "AgencyName": "Nez Perce Tribe",
+    "FullAQSCode": "840TT1820003",
+    "IntlAQSCode": "840TT1820003"
+  },
+  {
     "Latitude": 48.391672,
     "Longitude": -115.55228,
     "UTC": "2023-07-23T07:00",
@@ -91,8 +104,8 @@
     "IntlAQSCode": "840300810007"
   },
   {
-    "Latitude": 46.927223,
-    "Longitude": -114.095406,
+    "Latitude": 46.927311,
+    "Longitude": -114.095451,
     "UTC": "2023-07-23T07:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -226,7 +239,7 @@
     "UTC": "2023-07-23T07:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 26,
+    "AQI": 28,
     "Category": 1,
     "SiteName": "West Yellowstone Park Ent #2",
     "AgencyName": "Montana DEQ",
@@ -252,7 +265,7 @@
     "UTC": "2023-07-23T07:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 18,
+    "AQI": 22,
     "Category": 1,
     "SiteName": "Yellowstone- Old Faithful Snow Lodge",
     "AgencyName": "National Park Service",
@@ -291,7 +304,7 @@
     "UTC": "2023-07-23T07:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 18,
+    "AQI": 17,
     "Category": 1,
     "SiteName": "Cody SLAMS",
     "AgencyName": "Wyoming Department of Environmental Quality",
