@@ -161,8 +161,8 @@
     "UTC": "2023-07-28T15:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 109,
-    "Category": 3,
+    "AQI": 80,
+    "Category": 2,
     "SiteName": "Unit0215",
     "AgencyName": "Forest Service",
     "FullAQSCode": "MMFS10215",
@@ -182,7 +182,7 @@
     "IntlAQSCode": "840300630038"
   },
   {
-    "Latitude": 44.67609,
+    "Latitude": 44.676064,
     "Longitude": -113.354546,
     "UTC": "2023-07-28T15:00",
     "Parameter": "PM2.5",
@@ -343,7 +343,7 @@
     "UTC": "2023-07-28T15:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 12,
+    "AQI": 16,
     "Category": 1,
     "SiteName": "Cody SLAMS",
     "AgencyName": "Wyoming Department of Environmental Quality",
