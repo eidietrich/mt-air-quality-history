@@ -130,7 +130,7 @@
     "IntlAQSCode": "840160590004"
   },
   {
-    "Latitude": 44.828785,
+    "Latitude": 44.8288,
     "Longitude": -113.675301,
     "UTC": "2023-08-01T21:00",
     "Parameter": "PM2.5",
@@ -265,7 +265,7 @@
     "UTC": "2023-08-01T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 32,
+    "AQI": 26,
     "Category": 1,
     "SiteName": "West Yellowstone Park Ent #2",
     "AgencyName": "Montana DEQ",
