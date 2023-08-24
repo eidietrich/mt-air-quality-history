@@ -26,6 +26,19 @@
     "IntlAQSCode": "840160850002"
   },
   {
+    "Latitude": 47.47156,
+    "Longitude": -115.79639,
+    "UTC": "2023-08-24T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 59,
+    "Category": 2,
+    "SiteName": "MMAIR1047",
+    "AgencyName": "AIRSIS",
+    "FullAQSCode": "840MMAIR1047",
+    "IntlAQSCode": "840MMAIR1047"
+  },
+  {
     "Latitude": 48.391672,
     "Longitude": -115.55228,
     "UTC": "2023-08-24T06:00",
