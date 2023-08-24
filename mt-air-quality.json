@@ -117,19 +117,6 @@
     "IntlAQSCode": "840300810007"
   },
   {
-    "Latitude": 47.16234,
-    "Longitude": -114.07016,
-    "UTC": "2023-08-24T13:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 59,
-    "Category": 2,
-    "SiteName": "Unit0284",
-    "AgencyName": "Forest Service",
-    "FullAQSCode": "MMFS10284",
-    "IntlAQSCode": "840MMFS10284"
-  },
-  {
     "Latitude": 46.842297,
     "Longitude": -114.020549,
     "UTC": "2023-08-24T13:00",
@@ -258,6 +245,19 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300130001",
     "IntlAQSCode": "840300130001"
+  },
+  {
+    "Latitude": 44.657014,
+    "Longitude": -111.089618,
+    "UTC": "2023-08-24T13:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 20,
+    "Category": 1,
+    "SiteName": "West Yellowstone Park Ent #2",
+    "AgencyName": "Montana DEQ",
+    "FullAQSCode": "300310017",
+    "IntlAQSCode": "840300310017"
   },
   {
     "Latitude": 45.683765,
