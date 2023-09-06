@@ -65,8 +65,8 @@
     "IntlAQSCode": "840300890007"
   },
   {
-    "Latitude": 47.19549,
-    "Longitude": -114.89422,
+    "Latitude": 47.19545,
+    "Longitude": -114.89434,
     "UTC": "2023-09-06T22:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -317,7 +317,7 @@
     "UTC": "2023-09-06T22:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 8,
+    "AQI": 6,
     "Category": 1,
     "SiteName": "Cody SLAMS",
     "AgencyName": "Wyoming Department of Environmental Quality",
@@ -336,6 +336,19 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "301110087",
     "IntlAQSCode": "840301110087"
+  },
+  {
+    "Latitude": 44.815142,
+    "Longitude": -106.955933,
+    "UTC": "2023-09-06T22:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 41,
+    "Category": 1,
+    "SiteName": "Sheridan PD",
+    "AgencyName": "Wyoming Department of Environmental Quality",
+    "FullAQSCode": "560330002",
+    "IntlAQSCode": "840560330002"
   },
   {
     "Latitude": 46.411444,
