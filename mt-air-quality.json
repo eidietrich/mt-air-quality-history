@@ -195,8 +195,8 @@
     "IntlAQSCode": "840300990005"
   },
   {
-    "Latitude": 46.584,
-    "Longitude": -112.0421,
+    "Latitude": 46.58408,
+    "Longitude": -112.04197,
     "UTC": "2023-09-25T01:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -336,6 +336,19 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300710010",
     "IntlAQSCode": "840300710010"
+  },
+  {
+    "Latitude": 44.815142,
+    "Longitude": -106.955933,
+    "UTC": "2023-09-25T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 17,
+    "Category": 1,
+    "SiteName": "Sheridan PD",
+    "AgencyName": "Wyoming Department of Environmental Quality",
+    "FullAQSCode": "560330002",
+    "IntlAQSCode": "840560330002"
   },
   {
     "Latitude": 46.411444,
