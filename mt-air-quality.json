@@ -1,0 +1,80 @@
+[
+  {
+    "Latitude": 45.931301,
+    "Longitude": -116.115196,
+    "UTC": "2023-10-30T15:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 62,
+    "Category": 2,
+    "SiteName": "Grangeville",
+    "AgencyName": "Idaho Department of Environmental Quality",
+    "FullAQSCode": "160490002",
+    "IntlAQSCode": "840160490002"
+  },
+  {
+    "Latitude": 44.890197,
+    "Longitude": -116.1065,
+    "UTC": "2023-10-30T15:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 59,
+    "Category": 2,
+    "SiteName": "McCall",
+    "AgencyName": "Idaho Department of Environmental Quality",
+    "FullAQSCode": "160850002",
+    "IntlAQSCode": "840160850002"
+  },
+  {
+    "Latitude": 46.2094,
+    "Longitude": -116.0275,
+    "UTC": "2023-10-30T15:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 48,
+    "Category": 1,
+    "SiteName": "Kamiah",
+    "AgencyName": "Nez Perce Tribe",
+    "FullAQSCode": "840TT1820003",
+    "IntlAQSCode": "840TT1820003"
+  },
+  {
+    "Latitude": 45.181907,
+    "Longitude": -113.890285,
+    "UTC": "2023-10-30T15:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 35,
+    "Category": 1,
+    "SiteName": "Salmon PM2.5",
+    "AgencyName": "Idaho Department of Environmental Quality",
+    "FullAQSCode": "160590004",
+    "IntlAQSCode": "840160590004"
+  },
+  {
+    "Latitude": 44.657014,
+    "Longitude": -111.089618,
+    "UTC": "2023-10-30T15:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 17,
+    "Category": 1,
+    "SiteName": "West Yellowstone Park Ent #2",
+    "AgencyName": "Montana DEQ",
+    "FullAQSCode": "300310017",
+    "IntlAQSCode": "840300310017"
+  },
+  {
+    "Latitude": 46.949699,
+    "Longitude": -103.514397,
+    "UTC": "2023-10-30T15:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 22,
+    "Category": 1,
+    "SiteName": "Theodore Roosevelt NP - Painted Canyon VC",
+    "AgencyName": "North Dakota Department of Environmental Quality",
+    "FullAQSCode": "380070002",
+    "IntlAQSCode": "840380070002"
+  }
+]
