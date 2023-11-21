@@ -104,8 +104,8 @@
     "IntlAQSCode": "840MMFS12402"
   },
   {
-    "Latitude": 46.92688,
-    "Longitude": -114.09615,
+    "Latitude": 46.92687,
+    "Longitude": -114.09619,
     "UTC": "2023-11-21T15:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
