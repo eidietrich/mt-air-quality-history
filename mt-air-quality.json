@@ -104,8 +104,8 @@
     "IntlAQSCode": "840300810007"
   },
   {
-    "Latitude": 46.92703,
-    "Longitude": -114.09594,
+    "Latitude": 46.92685,
+    "Longitude": -114.09617,
     "UTC": "2023-11-28T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -336,6 +336,19 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300270006",
     "IntlAQSCode": "840300270006"
+  },
+  {
+    "Latitude": 44.524642,
+    "Longitude": -109.068507,
+    "UTC": "2023-11-28T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 29,
+    "Category": 1,
+    "SiteName": "Cody SLAMS",
+    "AgencyName": "Wyoming Department of Environmental Quality",
+    "FullAQSCode": "840560290001",
+    "IntlAQSCode": "840560290001"
   },
   {
     "Latitude": 45.806357,
