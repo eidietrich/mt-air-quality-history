@@ -31,7 +31,7 @@
     "UTC": "2024-01-06T08:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 18,
+    "AQI": 15,
     "Category": 1,
     "SiteName": "Kamiah",
     "AgencyName": "Nez Perce Tribe",
@@ -245,6 +245,19 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300130001",
     "IntlAQSCode": "840300130001"
+  },
+  {
+    "Latitude": 44.657014,
+    "Longitude": -111.089618,
+    "UTC": "2024-01-06T08:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 6,
+    "Category": 1,
+    "SiteName": "West Yellowstone Park Ent #2",
+    "AgencyName": "Montana DEQ",
+    "FullAQSCode": "300310017",
+    "IntlAQSCode": "840300310017"
   },
   {
     "Latitude": 45.683765,
