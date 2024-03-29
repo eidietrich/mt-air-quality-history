@@ -13,6 +13,19 @@
     "IntlAQSCode": "840160490002"
   },
   {
+    "Latitude": 44.890197,
+    "Longitude": -116.1065,
+    "UTC": "2024-03-29T22:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 5,
+    "Category": 1,
+    "SiteName": "McCall",
+    "AgencyName": "Idaho Department of Environmental Quality",
+    "FullAQSCode": "160850002",
+    "IntlAQSCode": "840160850002"
+  },
+  {
     "Latitude": 46.2094,
     "Longitude": -116.0275,
     "UTC": "2024-03-29T22:00",
@@ -109,7 +122,7 @@
     "UTC": "2024-03-29T22:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 2,
+    "AQI": 1,
     "Category": 1,
     "SiteName": "Salmon PM2.5",
     "AgencyName": "Idaho Department of Environmental Quality",
@@ -226,7 +239,7 @@
     "UTC": "2024-03-29T22:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 7,
+    "AQI": 8,
     "Category": 1,
     "SiteName": "Yellowstone- Old Faithful Snow Lodge",
     "AgencyName": "National Park Service",
