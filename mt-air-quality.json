@@ -117,6 +117,19 @@
     "IntlAQSCode": "840300630024"
   },
   {
+    "Latitude": 45.181907,
+    "Longitude": -113.890285,
+    "UTC": "2024-05-22T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 31,
+    "Category": 1,
+    "SiteName": "Salmon PM2.5",
+    "AgencyName": "Idaho Department of Environmental Quality",
+    "FullAQSCode": "160590004",
+    "IntlAQSCode": "840160590004"
+  },
+  {
     "Latitude": 47.17563,
     "Longitude": -113.476182,
     "UTC": "2024-05-22T18:00",
@@ -226,7 +239,7 @@
     "UTC": "2024-05-22T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 9,
+    "AQI": 4,
     "Category": 1,
     "SiteName": "West Yellowstone Park Ent #2",
     "AgencyName": "Montana DEQ",
