@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "Latitude": 45.931301,
+    "Longitude": -116.115196,
+    "UTC": "2024-07-19T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 73,
+    "Category": 2,
+    "SiteName": "Grangeville",
+    "AgencyName": "Idaho Department of Environmental Quality",
+    "FullAQSCode": "160490002",
+    "IntlAQSCode": "840160490002"
+  },
+  {
+    "Latitude": 44.890197,
+    "Longitude": -116.1065,
+    "UTC": "2024-07-19T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 65,
+    "Category": 2,
+    "SiteName": "McCall",
+    "AgencyName": "Idaho Department of Environmental Quality",
+    "FullAQSCode": "160850002",
+    "IntlAQSCode": "840160850002"
+  },
+  {
+    "Latitude": 46.2094,
+    "Longitude": -116.0275,
+    "UTC": "2024-07-19T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 57,
+    "Category": 2,
+    "SiteName": "Kamiah",
+    "AgencyName": "Nez Perce Tribe",
+    "FullAQSCode": "840TT1820003",
+    "IntlAQSCode": "840TT1820003"
+  },
+  {
+    "Latitude": 45.181907,
+    "Longitude": -113.890285,
+    "UTC": "2024-07-19T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 58,
+    "Category": 2,
+    "SiteName": "Salmon PM2.5",
+    "AgencyName": "Idaho Department of Environmental Quality",
+    "FullAQSCode": "160590004",
+    "IntlAQSCode": "840160590004"
+  }
+]
