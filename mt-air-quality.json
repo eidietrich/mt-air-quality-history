@@ -39,6 +39,19 @@
     "IntlAQSCode": "840TT1820003"
   },
   {
+    "Latitude": 46.7815,
+    "Longitude": -114.0107,
+    "UTC": "2024-07-19T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 80,
+    "Category": 2,
+    "SiteName": "Unit153",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "MMFS10153",
+    "IntlAQSCode": "840MMFS10153"
+  },
+  {
     "Latitude": 45.181907,
     "Longitude": -113.890285,
     "UTC": "2024-07-19T07:00",
@@ -50,5 +63,70 @@
     "AgencyName": "Idaho Department of Environmental Quality",
     "FullAQSCode": "160590004",
     "IntlAQSCode": "840160590004"
+  },
+  {
+    "Latitude": 46.57082,
+    "Longitude": -111.57009,
+    "UTC": "2024-07-19T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 67,
+    "Category": 2,
+    "SiteName": "Unit0215",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "MMFS10215",
+    "IntlAQSCode": "840MMFS10215"
+  },
+  {
+    "Latitude": 46.31532,
+    "Longitude": -111.51805,
+    "UTC": "2024-07-19T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 61,
+    "Category": 2,
+    "SiteName": "Unit23",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "MMFS10023",
+    "IntlAQSCode": "840MMFS10023"
+  },
+  {
+    "Latitude": 44.524642,
+    "Longitude": -109.068507,
+    "UTC": "2024-07-19T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Cody SLAMS",
+    "AgencyName": "Wyoming Department of Environmental Quality",
+    "FullAQSCode": "840560290001",
+    "IntlAQSCode": "840560290001"
+  },
+  {
+    "Latitude": 44.80388,
+    "Longitude": -106.96138,
+    "UTC": "2024-07-19T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Sheridan Mobile",
+    "AgencyName": "Wyoming Department of Environmental Quality",
+    "FullAQSCode": "840560330007",
+    "IntlAQSCode": "840560330007"
+  },
+  {
+    "Latitude": 44.815142,
+    "Longitude": -106.955933,
+    "UTC": "2024-07-19T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Sheridan PD",
+    "AgencyName": "Wyoming Department of Environmental Quality",
+    "FullAQSCode": "560330002",
+    "IntlAQSCode": "840560330002"
   }
 ]
