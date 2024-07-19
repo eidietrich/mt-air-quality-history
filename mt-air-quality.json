@@ -1,47 +1,8 @@
 [
   {
-    "Latitude": 46.7815,
-    "Longitude": -114.0107,
-    "UTC": "2024-07-19T05:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 52,
-    "Category": 2,
-    "SiteName": "Unit153",
-    "AgencyName": "Forest Service",
-    "FullAQSCode": "MMFS10153",
-    "IntlAQSCode": "840MMFS10153"
-  },
-  {
-    "Latitude": 46.78467,
-    "Longitude": -113.71517,
-    "UTC": "2024-07-19T05:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 39,
-    "Category": 1,
-    "SiteName": "Unit139",
-    "AgencyName": "Forest Service",
-    "FullAQSCode": "MMFS10139",
-    "IntlAQSCode": "840MMFS10139"
-  },
-  {
-    "Latitude": 46.57082,
-    "Longitude": -111.57009,
-    "UTC": "2024-07-19T05:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 70,
-    "Category": 2,
-    "SiteName": "Unit0215",
-    "AgencyName": "Forest Service",
-    "FullAQSCode": "MMFS10215",
-    "IntlAQSCode": "840MMFS10215"
-  },
-  {
     "Latitude": 46.31532,
     "Longitude": -111.51805,
-    "UTC": "2024-07-19T05:00",
+    "UTC": "2024-07-19T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 60,
