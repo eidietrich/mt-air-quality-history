@@ -1,15 +1,1 @@
-[
-  {
-    "Latitude": 46.31532,
-    "Longitude": -111.51805,
-    "UTC": "2024-07-19T06:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 60,
-    "Category": 2,
-    "SiteName": "Unit23",
-    "AgencyName": "Forest Service",
-    "FullAQSCode": "MMFS10023",
-    "IntlAQSCode": "840MMFS10023"
-  }
-]
+[]
