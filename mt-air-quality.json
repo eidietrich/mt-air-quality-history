@@ -156,19 +156,6 @@
     "IntlAQSCode": "840160590004"
   },
   {
-    "Latitude": 46.78467,
-    "Longitude": -113.71524,
-    "UTC": "2024-07-23T06:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 67,
-    "Category": 2,
-    "SiteName": "MMFS11307",
-    "AgencyName": "Forest Service",
-    "FullAQSCode": "840MMFS11307",
-    "IntlAQSCode": "840MMFS11307"
-  },
-  {
     "Latitude": 47.17563,
     "Longitude": -113.476182,
     "UTC": "2024-07-23T06:00",
@@ -273,6 +260,19 @@
     "IntlAQSCode": "840300130001"
   },
   {
+    "Latitude": 44.657014,
+    "Longitude": -111.089618,
+    "UTC": "2024-07-23T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 48,
+    "Category": 1,
+    "SiteName": "West Yellowstone Park Ent #2",
+    "AgencyName": "Montana DEQ",
+    "FullAQSCode": "300310017",
+    "IntlAQSCode": "840300310017"
+  },
+  {
     "Latitude": 45.68377,
     "Longitude": -111.05632,
     "UTC": "2024-07-23T06:00",
@@ -284,6 +284,19 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "840MMMT10020",
     "IntlAQSCode": "840MMMT10020"
+  },
+  {
+    "Latitude": 44.373056,
+    "Longitude": -110.830833,
+    "UTC": "2024-07-23T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 58,
+    "Category": 2,
+    "SiteName": "Yellowstone- Old Faithful Snow Lodge",
+    "AgencyName": "National Park Service",
+    "FullAQSCode": "560391013",
+    "IntlAQSCode": "840560391013"
   },
   {
     "Latitude": 47.048537,
@@ -304,7 +317,7 @@
     "UTC": "2024-07-23T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 79,
+    "AQI": 81,
     "Category": 2,
     "SiteName": "Cody SLAMS",
     "AgencyName": "Wyoming Department of Environmental Quality",
