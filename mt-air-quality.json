@@ -2,7 +2,7 @@
   {
     "Latitude": 45.931301,
     "Longitude": -116.115196,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 94,
@@ -15,7 +15,7 @@
   {
     "Latitude": 44.890197,
     "Longitude": -116.1065,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 58,
@@ -28,7 +28,7 @@
   {
     "Latitude": 46.2094,
     "Longitude": -116.0275,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 91,
@@ -41,7 +41,7 @@
   {
     "Latitude": 48.391672,
     "Longitude": -115.55228,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 104,
@@ -54,7 +54,7 @@
   {
     "Latitude": 47.594395,
     "Longitude": -115.323746,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 160,
@@ -67,7 +67,7 @@
   {
     "Latitude": 47.19542,
     "Longitude": -114.89421,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 113,
@@ -80,7 +80,7 @@
   {
     "Latitude": 48.363694,
     "Longitude": -114.189272,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 154,
@@ -93,7 +93,7 @@
   {
     "Latitude": 46.243621,
     "Longitude": -114.158889,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 66,
@@ -106,7 +106,7 @@
   {
     "Latitude": 46.842297,
     "Longitude": -114.020549,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 62,
@@ -119,10 +119,10 @@
   {
     "Latitude": 46.78144,
     "Longitude": -114.01072,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 38,
+    "AQI": 30,
     "Category": 1,
     "SiteName": "Unit153",
     "AgencyName": "Forest Service",
@@ -132,10 +132,10 @@
   {
     "Latitude": 46.73541,
     "Longitude": -113.93063,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 80,
+    "AQI": 75,
     "Category": 2,
     "SiteName": "MMFS11306",
     "AgencyName": "Forest Service",
@@ -145,7 +145,7 @@
   {
     "Latitude": 45.181907,
     "Longitude": -113.890285,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 46,
@@ -158,10 +158,10 @@
   {
     "Latitude": 46.78463,
     "Longitude": -113.71521,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 80,
+    "AQI": 74,
     "Category": 2,
     "SiteName": "MMFS11307",
     "AgencyName": "Forest Service",
@@ -171,7 +171,7 @@
   {
     "Latitude": 45.206448,
     "Longitude": -112.642518,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 28,
@@ -184,7 +184,7 @@
   {
     "Latitude": 46.002399,
     "Longitude": -112.500893,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 52,
@@ -197,7 +197,7 @@
   {
     "Latitude": 48.607406,
     "Longitude": -112.363842,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 79,
@@ -210,7 +210,7 @@
   {
     "Latitude": 47.820308,
     "Longitude": -112.19363,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 73,
@@ -223,7 +223,7 @@
   {
     "Latitude": 46.6588,
     "Longitude": -112.0131,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 63,
@@ -236,7 +236,7 @@
   {
     "Latitude": 46.8505,
     "Longitude": -111.987164,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 48,
@@ -249,7 +249,7 @@
   {
     "Latitude": 47.494318,
     "Longitude": -111.303317,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 74,
@@ -260,22 +260,9 @@
     "IntlAQSCode": "840300130001"
   },
   {
-    "Latitude": 44.657014,
-    "Longitude": -111.089618,
-    "UTC": "2024-07-25T05:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 55,
-    "Category": 2,
-    "SiteName": "West Yellowstone Park Ent #2",
-    "AgencyName": "Montana DEQ",
-    "FullAQSCode": "300310017",
-    "IntlAQSCode": "840300310017"
-  },
-  {
     "Latitude": 45.68377,
     "Longitude": -111.05632,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 69,
@@ -288,7 +275,7 @@
   {
     "Latitude": 44.373056,
     "Longitude": -110.830833,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 64,
@@ -301,7 +288,7 @@
   {
     "Latitude": 47.048537,
     "Longitude": -109.455315,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 90,
@@ -314,7 +301,7 @@
   {
     "Latitude": 44.524642,
     "Longitude": -109.068507,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 53,
@@ -327,7 +314,7 @@
   {
     "Latitude": 45.806357,
     "Longitude": -108.426551,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 77,
@@ -340,7 +327,7 @@
   {
     "Latitude": 48.317507,
     "Longitude": -107.862471,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 87,
@@ -353,7 +340,7 @@
   {
     "Latitude": 44.80388,
     "Longitude": -106.96138,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 43,
@@ -366,7 +353,7 @@
   {
     "Latitude": 44.815142,
     "Longitude": -106.955933,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 65,
@@ -379,10 +366,10 @@
   {
     "Latitude": 46.411444,
     "Longitude": -105.812694,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 82,
+    "AQI": 83,
     "Category": 2,
     "SiteName": "Miles City",
     "AgencyName": "Montana DEQ",
@@ -392,7 +379,7 @@
   {
     "Latitude": 45.440295,
     "Longitude": -105.37028,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 73,
@@ -405,7 +392,7 @@
   {
     "Latitude": 47.12072,
     "Longitude": -104.75168,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 60,
@@ -418,7 +405,7 @@
   {
     "Latitude": 47.8679,
     "Longitude": -104.676864,
-    "UTC": "2024-07-25T05:00",
+    "UTC": "2024-07-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 80,
