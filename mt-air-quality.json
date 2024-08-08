@@ -278,7 +278,7 @@
     "UTC": "2024-08-08T14:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 52,
+    "AQI": 54,
     "Category": 2,
     "SiteName": "Yellowstone- Old Faithful Snow Lodge",
     "AgencyName": "National Park Service",
@@ -300,7 +300,7 @@
   },
   {
     "Latitude": 44.47334,
-    "Longitude": -109.42156,
+    "Longitude": -109.42152,
     "UTC": "2024-08-08T14:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
