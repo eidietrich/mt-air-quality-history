@@ -5,12 +5,25 @@
     "UTC": "2024-08-14T07:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 41,
+    "AQI": 30,
     "Category": 1,
     "SiteName": "Grangeville",
     "AgencyName": "Idaho Department of Environmental Quality",
     "FullAQSCode": "160490002",
     "IntlAQSCode": "840160490002"
+  },
+  {
+    "Latitude": 44.890197,
+    "Longitude": -116.1065,
+    "UTC": "2024-08-14T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 60,
+    "Category": 2,
+    "SiteName": "McCall",
+    "AgencyName": "Idaho Department of Environmental Quality",
+    "FullAQSCode": "160850002",
+    "IntlAQSCode": "840160850002"
   },
   {
     "Latitude": 48.391672,
