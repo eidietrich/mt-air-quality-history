@@ -27,7 +27,7 @@
   },
   {
     "Latitude": 44.73123,
-    "Longitude": -116.08082,
+    "Longitude": -116.0808,
     "UTC": "2024-09-07T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
