@@ -27,7 +27,7 @@
   },
   {
     "Latitude": 44.73125,
-    "Longitude": -116.08075,
+    "Longitude": -116.08076,
     "UTC": "2024-09-14T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -239,7 +239,7 @@
     "UTC": "2024-09-14T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 19,
+    "AQI": 9,
     "Category": 1,
     "SiteName": "West Yellowstone Park Ent #2",
     "AgencyName": "Montana DEQ",
