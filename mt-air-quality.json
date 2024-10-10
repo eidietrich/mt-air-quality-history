@@ -46,7 +46,7 @@
     "Unit": "UG/M3",
     "AQI": 8,
     "Category": 1,
-    "SiteName": "Libby Courthouse",
+    "SiteName": "Libby",
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300530018",
     "IntlAQSCode": "840300530018"
@@ -59,7 +59,7 @@
     "Unit": "UG/M3",
     "AQI": 21,
     "Category": 1,
-    "SiteName": "Thompson Falls HS",
+    "SiteName": "Thompson Falls",
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300890007",
     "IntlAQSCode": "840300890007"
@@ -72,7 +72,7 @@
     "Unit": "UG/M3",
     "AQI": 29,
     "Category": 1,
-    "SiteName": "French Town - Beckwith",
+    "SiteName": "Frenchtown",
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300630037",
     "IntlAQSCode": "840300630037"
@@ -98,7 +98,7 @@
     "Unit": "UG/M3",
     "AQI": 17,
     "Category": 1,
-    "SiteName": "Hamilton PS 46",
+    "SiteName": "Hamilton",
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300810007",
     "IntlAQSCode": "840300810007"
@@ -124,7 +124,7 @@
     "Unit": "UG/M3",
     "AQI": 6,
     "Category": 1,
-    "SiteName": "Missoula Boyd Park",
+    "SiteName": "Missoula",
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300630024",
     "IntlAQSCode": "840300630024"
@@ -150,7 +150,7 @@
     "Unit": "UG/M3",
     "AQI": 7,
     "Category": 1,
-    "SiteName": "Seeley Elementary School",
+    "SiteName": "Seeley Lake",
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300630038",
     "IntlAQSCode": "840300630038"
@@ -176,7 +176,7 @@
     "Unit": "UG/M3",
     "AQI": 56,
     "Category": 2,
-    "SiteName": "Butte Greely School",
+    "SiteName": "Butte",
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300930005",
     "IntlAQSCode": "840300930005"
@@ -215,7 +215,7 @@
     "Unit": "UG/M3",
     "AQI": 19,
     "Category": 1,
-    "SiteName": "Rossiter Pump House",
+    "SiteName": "Helena",
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300490026",
     "IntlAQSCode": "840300490026"
@@ -241,7 +241,7 @@
     "Unit": "UG/M3",
     "AQI": 37,
     "Category": 1,
-    "SiteName": "Great Falls Overlook Park",
+    "SiteName": "Great Falls",
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300130001",
     "IntlAQSCode": "840300130001"
@@ -254,7 +254,7 @@
     "Unit": "UG/M3",
     "AQI": 14,
     "Category": 1,
-    "SiteName": "West Yellowstone Park Ent #2",
+    "SiteName": "West Yellowstone",
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300310017",
     "IntlAQSCode": "840300310017"
@@ -332,7 +332,7 @@
     "Unit": "UG/M3",
     "AQI": 29,
     "Category": 1,
-    "SiteName": "Billlings Lockwood",
+    "SiteName": "Billings",
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "301110087",
     "IntlAQSCode": "840301110087"
@@ -436,7 +436,7 @@
     "Unit": "UG/M3",
     "AQI": 18,
     "Category": 1,
-    "SiteName": "Sidney 201",
+    "SiteName": "Sidney",
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300830002",
     "IntlAQSCode": "840300830002"
