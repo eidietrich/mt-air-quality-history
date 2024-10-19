@@ -135,7 +135,7 @@
     "UTC": "2024-10-19T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 8,
+    "AQI": 4,
     "Category": 1,
     "SiteName": "Salmon PM2.5",
     "AgencyName": "Idaho Department of Environmental Quality",
