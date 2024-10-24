@@ -91,6 +91,19 @@
     "IntlAQSCode": "840300810007"
   },
   {
+    "Latitude": 46.9268,
+    "Longitude": -114.09625,
+    "UTC": "2024-10-24T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 8,
+    "Category": 1,
+    "SiteName": "MMFS10662",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "840MMFS10662",
+    "IntlAQSCode": "840MMFS10662"
+  },
+  {
     "Latitude": 46.842297,
     "Longitude": -114.020549,
     "UTC": "2024-10-24T20:00",
@@ -109,7 +122,7 @@
     "UTC": "2024-10-24T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 25,
+    "AQI": 18,
     "Category": 1,
     "SiteName": "Salmon PM2.5",
     "AgencyName": "Idaho Department of Environmental Quality",
@@ -271,6 +284,19 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300710010",
     "IntlAQSCode": "840300710010"
+  },
+  {
+    "Latitude": 44.80388,
+    "Longitude": -106.96138,
+    "UTC": "2024-10-24T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 15,
+    "Category": 1,
+    "SiteName": "Sheridan Mobile",
+    "AgencyName": "Wyoming Department of Environmental Quality",
+    "FullAQSCode": "840560330007",
+    "IntlAQSCode": "840560330007"
   },
   {
     "Latitude": 48.21179,
