@@ -26,6 +26,19 @@
     "IntlAQSCode": "840160850002"
   },
   {
+    "Latitude": 46.2094,
+    "Longitude": -116.0275,
+    "UTC": "2024-11-03T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 17,
+    "Category": 1,
+    "SiteName": "Kamiah",
+    "AgencyName": "Nez Perce Tribe",
+    "FullAQSCode": "840TT1820003",
+    "IntlAQSCode": "840TT1820003"
+  },
+  {
     "Latitude": 48.391672,
     "Longitude": -115.55228,
     "UTC": "2024-11-03T07:00",
@@ -297,6 +310,19 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "300710010",
     "IntlAQSCode": "840300710010"
+  },
+  {
+    "Latitude": 44.815142,
+    "Longitude": -106.955933,
+    "UTC": "2024-11-03T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Sheridan PD",
+    "AgencyName": "Wyoming Department of Environmental Quality",
+    "FullAQSCode": "560330002",
+    "IntlAQSCode": "840560330002"
   },
   {
     "Latitude": 48.21179,
