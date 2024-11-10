@@ -252,7 +252,7 @@
     "UTC": "2024-11-10T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 0,
+    "AQI": 2,
     "Category": 1,
     "SiteName": "West Yellowstone",
     "AgencyName": "Montana DEQ",
