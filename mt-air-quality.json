@@ -351,12 +351,25 @@
     "IntlAQSCode": "840300710010"
   },
   {
+    "Latitude": 44.80388,
+    "Longitude": -106.96138,
+    "UTC": "2024-11-11T22:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 21,
+    "Category": 1,
+    "SiteName": "Sheridan Mobile",
+    "AgencyName": "Wyoming Department of Environmental Quality",
+    "FullAQSCode": "840560330007",
+    "IntlAQSCode": "840560330007"
+  },
+  {
     "Latitude": 44.815142,
     "Longitude": -106.955933,
     "UTC": "2024-11-11T22:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 13,
+    "AQI": 9,
     "Category": 1,
     "SiteName": "Sheridan PD",
     "AgencyName": "Wyoming Department of Environmental Quality",
