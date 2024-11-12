@@ -252,7 +252,7 @@
     "UTC": "2024-11-12T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 7,
+    "AQI": 1,
     "Category": 1,
     "SiteName": "West Yellowstone",
     "AgencyName": "Montana DEQ",
@@ -271,6 +271,19 @@
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "840MMMT10020",
     "IntlAQSCode": "840MMMT10020"
+  },
+  {
+    "Latitude": 44.373056,
+    "Longitude": -110.830833,
+    "UTC": "2024-11-12T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 3,
+    "Category": 1,
+    "SiteName": "Yellowstone- Old Faithful Snow Lodge",
+    "AgencyName": "National Park Service",
+    "FullAQSCode": "560391013",
+    "IntlAQSCode": "840560391013"
   },
   {
     "Latitude": 48.540373,
@@ -338,12 +351,25 @@
     "IntlAQSCode": "840300710010"
   },
   {
+    "Latitude": 44.80388,
+    "Longitude": -106.96138,
+    "UTC": "2024-11-12T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 5,
+    "Category": 1,
+    "SiteName": "Sheridan Mobile",
+    "AgencyName": "Wyoming Department of Environmental Quality",
+    "FullAQSCode": "840560330007",
+    "IntlAQSCode": "840560330007"
+  },
+  {
     "Latitude": 44.815142,
     "Longitude": -106.955933,
     "UTC": "2024-11-12T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 13,
+    "AQI": 12,
     "Category": 1,
     "SiteName": "Sheridan PD",
     "AgencyName": "Wyoming Department of Environmental Quality",
