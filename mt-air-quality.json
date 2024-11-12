@@ -104,8 +104,8 @@
     "IntlAQSCode": "840300810007"
   },
   {
-    "Latitude": 46.92694,
-    "Longitude": -114.09615,
+    "Latitude": 46.92689,
+    "Longitude": -114.09617,
     "UTC": "2024-11-12T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -252,7 +252,7 @@
     "UTC": "2024-11-12T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 0,
+    "AQI": 8,
     "Category": 1,
     "SiteName": "West Yellowstone",
     "AgencyName": "Montana DEQ",
