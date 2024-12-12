@@ -130,6 +130,19 @@
     "IntlAQSCode": "840300630024"
   },
   {
+    "Latitude": 45.181907,
+    "Longitude": -113.890285,
+    "UTC": "2024-12-12T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 60,
+    "Category": 2,
+    "SiteName": "Salmon PM2.5",
+    "AgencyName": "Idaho Department of Environmental Quality",
+    "FullAQSCode": "160590004",
+    "IntlAQSCode": "840160590004"
+  },
+  {
     "Latitude": 47.17563,
     "Longitude": -113.476182,
     "UTC": "2024-12-12T19:00",
