@@ -273,6 +273,19 @@
     "IntlAQSCode": "840MMMT10020"
   },
   {
+    "Latitude": 44.373056,
+    "Longitude": -110.830833,
+    "UTC": "2024-12-17T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "Yellowstone- Old Faithful Snow Lodge",
+    "AgencyName": "National Park Service",
+    "FullAQSCode": "560391013",
+    "IntlAQSCode": "840560391013"
+  },
+  {
     "Latitude": 48.540373,
     "Longitude": -109.684432,
     "UTC": "2024-12-17T18:00",
