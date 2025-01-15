@@ -221,12 +221,25 @@
     "IntlAQSCode": "840300130001"
   },
   {
+    "Latitude": 44.657014,
+    "Longitude": -111.089618,
+    "UTC": "2025-01-15T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 40,
+    "Category": 1,
+    "SiteName": "West Yellowstone",
+    "AgencyName": "Montana DEQ",
+    "FullAQSCode": "300310017",
+    "IntlAQSCode": "840300310017"
+  },
+  {
     "Latitude": 44.373056,
     "Longitude": -110.830833,
     "UTC": "2025-01-15T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 11,
+    "AQI": 8,
     "Category": 1,
     "SiteName": "Yellowstone- Old Faithful Snow Lodge",
     "AgencyName": "National Park Service",
