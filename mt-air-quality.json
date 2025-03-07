@@ -130,6 +130,19 @@
     "IntlAQSCode": "840300630024"
   },
   {
+    "Latitude": 45.181907,
+    "Longitude": -113.890285,
+    "UTC": "2025-03-07T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 29,
+    "Category": 1,
+    "SiteName": "Salmon PM2.5",
+    "AgencyName": "Idaho Department of Environmental Quality",
+    "FullAQSCode": "160590004",
+    "IntlAQSCode": "840160590004"
+  },
+  {
     "Latitude": 47.17563,
     "Longitude": -113.476182,
     "UTC": "2025-03-07T16:00",
@@ -239,7 +252,7 @@
     "UTC": "2025-03-07T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 18,
+    "AQI": 14,
     "Category": 1,
     "SiteName": "West Yellowstone",
     "AgencyName": "Montana DEQ",
@@ -265,7 +278,7 @@
     "UTC": "2025-03-07T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 22,
+    "AQI": 19,
     "Category": 1,
     "SiteName": "Yellowstone- Old Faithful Snow Lodge",
     "AgencyName": "National Park Service",
