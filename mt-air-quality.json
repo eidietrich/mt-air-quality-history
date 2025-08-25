@@ -221,6 +221,19 @@
     "IntlAQSCode": "840300130001"
   },
   {
+    "Latitude": 45.68377,
+    "Longitude": -111.05632,
+    "UTC": "2025-08-25T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 57,
+    "Category": 2,
+    "SiteName": "Bozeman EBAM",
+    "AgencyName": "Montana DEQ",
+    "FullAQSCode": "840MMMT10020",
+    "IntlAQSCode": "840MMMT10020"
+  },
+  {
     "Latitude": 48.540373,
     "Longitude": -109.684432,
     "UTC": "2025-08-25T21:00",
