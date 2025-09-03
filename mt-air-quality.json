@@ -319,7 +319,7 @@
     "Unit": "UG/M3",
     "AQI": 78,
     "Category": 2,
-    "SiteName": "N/A",
+    "SiteName": "Glasgow EBAM",
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "840MMMT10013",
     "IntlAQSCode": "840MMMT10013"
@@ -332,7 +332,7 @@
     "Unit": "UG/M3",
     "AQI": 94,
     "Category": 2,
-    "SiteName": "N/A",
+    "SiteName": "Broadus EBAM",
     "AgencyName": "Montana DEQ",
     "FullAQSCode": "840MMMT10012",
     "IntlAQSCode": "840MMMT10012"
