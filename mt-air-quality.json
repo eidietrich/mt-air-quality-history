@@ -182,19 +182,6 @@
     "IntlAQSCode": "840300350022"
   },
   {
-    "Latitude": 45.54112,
-    "Longitude": -112.33612,
-    "UTC": "2025-09-06T08:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 70,
-    "Category": 2,
-    "SiteName": "MMFS10016",
-    "AgencyName": "Forest Service",
-    "FullAQSCode": "MMFS10016",
-    "IntlAQSCode": "840MMFS10016"
-  },
-  {
     "Latitude": 47.820308,
     "Longitude": -112.19363,
     "UTC": "2025-09-06T08:00",
