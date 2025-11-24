@@ -1,5 +1,31 @@
 [
   {
+    "Latitude": 45.931301,
+    "Longitude": -116.115196,
+    "UTC": "2025-11-24T14:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 12,
+    "Category": 1,
+    "SiteName": "Grangeville",
+    "AgencyName": "Idaho Department of Environmental Quality",
+    "FullAQSCode": "160490002",
+    "IntlAQSCode": "840160490002"
+  },
+  {
+    "Latitude": 44.890197,
+    "Longitude": -116.1065,
+    "UTC": "2025-11-24T14:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 14,
+    "Category": 1,
+    "SiteName": "McCall",
+    "AgencyName": "Idaho Department of Environmental Quality",
+    "FullAQSCode": "160850002",
+    "IntlAQSCode": "840160850002"
+  },
+  {
     "Latitude": 46.2094,
     "Longitude": -116.0275,
     "UTC": "2025-11-24T14:00",
@@ -265,7 +291,7 @@
     "UTC": "2025-11-24T14:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 10,
+    "AQI": 19,
     "Category": 1,
     "SiteName": "Cody SLAMS",
     "AgencyName": "Wyoming Department of Environmental Quality",
